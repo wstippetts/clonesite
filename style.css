@@ -1,0 +1,10 @@
+.center-body{
+  height: 20vh;
+}
+
+.card-bg{
+  background: url(https://media4.giphy.com/media/Run9VruCW6tg8lighU/giphy.gif) no-repeat;
+  background-size: 400px;
+  background-attachment: fixed;
+  background-position: top right;
+}
